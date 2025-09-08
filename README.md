@@ -2,7 +2,7 @@
 I'm **Ngo Huu Phat**, a **Backend Developer** passionate about building scalable, high-performance, and maintainable web applications.  
 I specialize in **Node.js and MongoDB** and enjoy exploring **microservices architectures** as well as **DevOps**.
 
-- 🌱 Currently learning **Kubernetes, advanced microservices architecture, and DevOps**  
+- 🌱 Currently learning **NestJS, advanced microservices architecture, and DevOps**  
 - 👯 Looking to collaborate on **Backend, Fullstack, or open-source projects**  
 - 🤔 Seeking support with **optimizing large-scale web applications**  
 - 💬 Ask me about **Node.js, ReactJS, MongoDB, MySQL, Docker**  
